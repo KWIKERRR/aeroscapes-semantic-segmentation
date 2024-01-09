@@ -1,4 +1,4 @@
-# Deep Learning for Image Segmentation with TensorFlow Garden
+# Image Segmentation with TensorFlow Garden
 This repository contains a comprehensive implementation of a deep learning model for image segmentation using TensorFlow Garden. The model is designed for the task of segmenting images into different classes.
 
 ## Aeroscapes Semantic Segmentation Dataset
