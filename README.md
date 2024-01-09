@@ -9,8 +9,11 @@ aeroscapes
      - trn.txt (list of training file names)
      - val.txt (list of validation file names)
 - JPEGImages
+  
      Image files for training, validation, and testing
+  
 - SegmentationClass
+  
      Segmentation mask files for training, validation, and testing
 
 ## Features
