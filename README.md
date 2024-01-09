@@ -12,7 +12,7 @@ The code includes a robust data loading and preprocessing pipeline. It supports 
 #### TFRecord Generation
 To efficiently handle large datasets, the script includes functionality to convert the dataset into TFRecord files. TFRecords are a recommended format for TensorFlow, providing improved performance during training.
 
-##### Custom Data Generator
+#### Custom Data Generator
 A custom data generator class is implemented to handle the loading and preprocessing of images and masks in batches. This ensures memory-efficient training and allows for easy integration with TensorFlow's data input pipelines.
 
 #### Model Configuration
@@ -23,3 +23,11 @@ The training process is managed with TensorFlow's TF-Agents library. The script 
 
 #### Visualization
 The code provides visualization tools to display input images, true segmentation masks, and predicted masks during or after the training process. This aids in understanding the model's performance.
+
+### Customization
+Feel free to customize the script according to your specific use case. You can adjust hyperparameters, experiment with different backbones, or modify the data loading pipeline to suit your dataset.
+
+### Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+Happy coding !
