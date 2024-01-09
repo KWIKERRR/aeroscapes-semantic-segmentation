@@ -34,6 +34,11 @@ The training process is managed with TensorFlow's TF-Agents library. The script 
 ### Visualization
 The code provides visualization tools to display input images, true segmentation masks, and predicted masks during or after the training process. This aids in understanding the model's performance.
 
+## Dependencies
+This code depends on the following librairies :
+ - tensorflow >= 2.9.2
+ - tf-models-official
+
 ## Customization
 Feel free to customize the script according to your specific use case. You can adjust hyperparameters, experiment with different backbones, or modify the data loading pipeline to suit your dataset.
 
