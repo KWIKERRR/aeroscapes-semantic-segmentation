@@ -2,7 +2,7 @@
 This repository contains a comprehensive implementation of a deep learning model for image segmentation using TensorFlow Garden. The model is designed for the task of segmenting images into different classes.
 
 ## Aeroscapes Semantic Segmentation Dataset
-The code is tailored for the Aeroscapes dataset, a challenging benchmark for semantic segmentation tasks. The dataset consists of images captured in outdoor environments with diverse scenes. It is annotated with pixel-wise labels for 12 different classes, including road, building, vegetation, and more. The dataset is available here[https://www.kaggle.com/datasets/kooaslansefat/uav-segmentation-aeroscapes/data].
+The code is tailored for the Aeroscapes dataset, a challenging benchmark for semantic segmentation tasks. The dataset consists of images captured in outdoor environments with diverse scenes. It is annotated with pixel-wise labels for 12 different classes, including road, building, vegetation, and more. The dataset can be accessed [here](https://www.kaggle.com/datasets/kooaslansefat/uav-segmentation-aeroscapes/data).
 ### Dataset Structure
  - ImageSets
      - trn.txt (list of training file names)
